@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm **Shan Ding**
 
-<img align="right" src="https://komarev.com/ghpvc/?username=llitgq-byte&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
+<img align="right" src="https://komarev.com/ghpvc/?username=llitgq&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
 
 Java / Frontend / ETL veteran turned **AI Agent Wrangler** 🤖
 
@@ -46,13 +46,13 @@ If you need someone who can code and make AI do the boring stuff — let's talk 
 ### 📊 GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=llitgq-byte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=C792EA&text_color=8B949E" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llitgq-byte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=llitgq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=C792EA&text_color=8B949E" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llitgq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" />
 </p>
 
 <p>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=llitgq-byte&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=C792EA&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" />
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=llitgq-byte&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=llitgq&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=C792EA&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" />
+  <img height="170" src="https://github-profile-trophy.vercel.app/?username=llitgq&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" />
 </p>
 
 ---
